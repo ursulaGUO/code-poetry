@@ -1,5 +1,13 @@
-#This program is meant to be run while looking at
-#the source code
+#------------------------------------------------------------
+# APPEARANCE ANXIETY
+# ../Ursul@ Guo, Apr 2021
+# contact: xiuan@uchicago.edu
+# 
+# 
+# FYI: This program/poem is meant to be run while looking at
+# the source code
+# -----------------------------------------------------------
+
 
 
 
