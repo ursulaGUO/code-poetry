@@ -170,7 +170,7 @@ else:
     print("                                                     ")
 
     print("     I still ended up feeling disappointed at myself,")
-    print("       for being overly conscious about my looks     ")
+    print("       for being overly conscious about my looks.    ")
 
     print("                                                     ")
     print(" ___________________________________________________ ") 
@@ -201,10 +201,10 @@ else:
     print("                                                     ")
 
 
-#I hope at least at
+#I hope at least at around
 age = 30
 
 #I can look into the mirror
-#and find myself truely beautiful
+#and find myself truly beautiful
 #even when
 do_I_accept_to_put_on = False
